@@ -3,7 +3,7 @@ ul {
     padding: 0;
     overflow: hidden;
     list-style-type: none;
-    background-color: #b34242;
+    background-color: #3d0505;
   }
   
   li {
@@ -18,11 +18,11 @@ ul {
   }
   
   li a:hover {
-    background-color: #cc5d4e;
+    background-color: #5c0b00;
   }
   
   .activo {
-    background-color: #7d2b20;
+    background-color: #6e1206;
   }
   
   .derecha {
@@ -32,8 +32,12 @@ ul {
   .miJumbo {
     margin-top: 1rem;
     padding: 32px 16px;
-    background-color: #e9ecef;
+    background-color: #777777;
     border-radius: 0.5rem;
     text-align: center;
+  }
+
+  body{
+    background-color: #202020;
   }
   
